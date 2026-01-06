@@ -13,3 +13,28 @@ dicionario_padrao['c'] = 3
 
 print(dicionario_padrao['a'])
 print(dicionario_padrao['A'])
+
+
+# Primeiro Periódo
+
+# Empreendedorismo      # 
+# Lógica Matemática             $             
+# Introdução A Programação      #
+
+
+# Segundo Periódo 
+
+# Algoritmo e Estrutura de Dados 1          #
+# Cálculo 1A                                $ 
+# Programação Orientada a Objetos - POO     #
+# Computação e Sociedade                    #
+# Transformação Digital                     #
+
+
+# Terceiro Periódo
+
+# Algoritmo e Estrutura de Dados 2          $         
+# Análise de Projeto de Algoritmo             
+# Pensamento Análitco de Dados              #
+# Banco de Dados                            
+# Probabílidade e Estatística               $
