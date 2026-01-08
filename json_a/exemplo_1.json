@@ -1,0 +1,21 @@
+
+
+
+{ 
+    "primeiroNome": "Marcos", 
+    "ultimoNome": "Silva", 
+    "hobbies": ["Correr", "Tocar Violão", "Nadar"],
+    "idade": 20, 
+    "temFilhos": true,
+    "filhos": [
+        {
+            "primeiroNome": "Max", 
+            "idade": 5
+        }, 
+        {
+            "primeiroNome": "Mateus", 
+            "idade": 10 
+        }
+    ]
+
+}

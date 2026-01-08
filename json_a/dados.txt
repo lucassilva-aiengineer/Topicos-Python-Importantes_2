@@ -1,0 +1,1 @@
+// Se trata de um formato de dados muito leve muito usado em aplicações web. 
