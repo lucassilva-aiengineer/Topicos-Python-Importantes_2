@@ -1,0 +1,1 @@
+# Operador Asterísco
